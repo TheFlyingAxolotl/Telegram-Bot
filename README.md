@@ -1,6 +1,8 @@
 # TelegramBot
 Here's a demonstration: 
 
+This is a simple Telegram bot which is meant to send reminders for birthdays and important events.
+
 I initially made it in repl.it thus there's a lot of irrelevant files. 
 All the code you'll need can be found in main.py! 
 
