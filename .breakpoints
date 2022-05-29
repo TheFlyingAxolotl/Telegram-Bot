@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "14328246-2061-44b8-8c8f-05989bdaa02a",
+        "line": 146,
+        "version": 2056,
+        "index": 4535
+      }
+    ],
+    "requirements.txt": [
+      {
+        "id": "96208b30-b073-4df8-8519-35d7dacd7095",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
