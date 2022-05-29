@@ -18,7 +18,7 @@ latestCommand = ""
 # context. Error handlers also receive the raised TelegramError object in error.
 def start(update, context):
     """Send a message when the command /start is issued."""
-    update.message.reply_text('JEDS is online ✅')
+    update.message.reply_text('<Your bot> is online ✅')
 
 
 def addBirthday(update, context):
@@ -111,7 +111,7 @@ def error(update, context):
 def main():
     """Start the bot."""
     # create the Updater and pass it your bot's token.
-    updater = Updater("1654973210:AAF5XDCgOmSkyLsHFIAOKvpIkeg3qK7SjhQ", use_context=True)
+    updater = Updater("<your pin>", use_context=True)
 
     # get the dispatcher to register handlers
     dp = updater.dispatcher
